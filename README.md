@@ -1,2 +1,2 @@
-# Th--chan-
+# Thố-chan!
 
