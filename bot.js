@@ -58,4 +58,4 @@ var cmd = args[0];
 });
 
 // THIS MUST BE THIS WAY
-client.login{process.env.NDc3ODg5MDQyNTE2ODAzNjA0.DlHNKA.49hpKNnYYcR4fZ70fjX9y-qJaVk};
+client.login{process.env.NDc3ODg5MDQyNTE2ODAzNjA0.DlMmCQ.Jd5e4nPnZgWUOoXuX4si-NfLXgI};
